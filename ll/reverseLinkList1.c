@@ -12,6 +12,8 @@ Copyright ® ©
 #include <stdlib.h>
 #define SIZE 0
 
+
+
 typedef struct _Node {
   int data;
   struct _Node* next;
